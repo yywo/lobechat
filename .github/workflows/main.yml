@@ -20,6 +20,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
       
       - name: 同步上游更新
         id: sync
@@ -28,7 +30,7 @@ jobs:
           upstream_sync_repo: lobehub/lobe-chat
           upstream_sync_branch: main
           target_sync_branch: main
-          target_repo_token: ${{ secrets.PAT_TOKEN }} # automatically generated, no need to set
+          target_repo_token: ${{ secrets.PAT_TOKEN }}
           test_mode: false
 
       - name: 检查同步
@@ -54,7 +56,7 @@ jobs:
         with:
           registry: ${{ env.REGISTRY }}
           username: ${{ github.actor }}
-          password: ${{ secrets.GITHUB_TOKEN }}
+          password: ${{ secrets.PAT_TOKEN }}
 
       - name: 提取 Docker 元数据
         id: meta
