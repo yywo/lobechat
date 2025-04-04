@@ -1,10 +1,6 @@
 name: Upstream Sync & Build Docker Image
 
-permissions:
-  contents: write
-  issues: write
-  actions: write
-  workflows: write  # Add this permission
+permissions: write-all
 
 
 env:
