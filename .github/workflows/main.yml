@@ -1,4 +1,3 @@
-// filepath: c:\Users\Administrator\Documents\app\github-workflow.yml
 name: Upstream Sync & Build Docker Image
 
 permissions: write-all
