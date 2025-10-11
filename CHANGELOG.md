@@ -2,6 +2,131 @@
 
 # Changelog
 
+### [Version 1.136.9](https://github.com/lobehub/lobe-chat/compare/v1.136.8...v1.136.9)
+
+<sup>Released on **2025-10-11**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add lab to support disable/enable rich text.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add lab to support disable/enable rich text, closes [#9652](https://github.com/lobehub/lobe-chat/issues/9652) ([658c294](https://github.com/lobehub/lobe-chat/commit/658c294))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.136.8](https://github.com/lobehub/lobe-chat/compare/v1.136.7...v1.136.8)
+
+<sup>Released on **2025-10-11**</sup>
+
+#### 🐛 Bug Fixes
+
+- **provider**: Add deepseek-v3.1-terminus to THINKING_MODELS.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **provider**: Add deepseek-v3.1-terminus to THINKING_MODELS, closes [#9653](https://github.com/lobehub/lobe-chat/issues/9653) [#9648](https://github.com/lobehub/lobe-chat/issues/9648) ([e9b5c69](https://github.com/lobehub/lobe-chat/commit/e9b5c69))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.136.7](https://github.com/lobehub/lobe-chat/compare/v1.136.6...v1.136.7)
+
+<sup>Released on **2025-10-11**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Disable rich text in markdown editor.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Disable rich text in markdown editor, closes [#9637](https://github.com/lobehub/lobe-chat/issues/9637) ([9349ce2](https://github.com/lobehub/lobe-chat/commit/9349ce2))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.136.6](https://github.com/lobehub/lobe-chat/compare/v1.136.5...v1.136.6)
+
+<sup>Released on **2025-10-11**</sup>
+
+#### 🐛 Bug Fixes
+
+- **bedrock**: Add parameter conflict handling for Claude 4+ models.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **bedrock**: Add parameter conflict handling for Claude 4+ models, closes [#9627](https://github.com/lobehub/lobe-chat/issues/9627) [#9523](https://github.com/lobehub/lobe-chat/issues/9523) ([54b6217](https://github.com/lobehub/lobe-chat/commit/54b6217))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.136.5](https://github.com/lobehub/lobe-chat/compare/v1.136.4...v1.136.5)
+
+<sup>Released on **2025-10-11**</sup>
+
+#### 🐛 Bug Fixes
+
+- **plugin-store**: Fix search functionality for old plugin store.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **plugin-store**: Fix search functionality for old plugin store, closes [#9651](https://github.com/lobehub/lobe-chat/issues/9651) [#9645](https://github.com/lobehub/lobe-chat/issues/9645) ([522fc09](https://github.com/lobehub/lobe-chat/commit/522fc09))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.136.4](https://github.com/lobehub/lobe-chat/compare/v1.136.3...v1.136.4)
 
 <sup>Released on **2025-10-10**</sup>

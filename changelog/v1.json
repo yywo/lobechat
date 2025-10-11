@@ -1,6 +1,35 @@
 [
   {
     "children": {
+      "improvements": ["Add lab to support disable/enable rich text."]
+    },
+    "date": "2025-10-11",
+    "version": "1.136.9"
+  },
+  {
+    "children": {},
+    "date": "2025-10-11",
+    "version": "1.136.8"
+  },
+  {
+    "children": {
+      "fixes": ["Disable rich text in markdown editor."]
+    },
+    "date": "2025-10-11",
+    "version": "1.136.7"
+  },
+  {
+    "children": {},
+    "date": "2025-10-11",
+    "version": "1.136.6"
+  },
+  {
+    "children": {},
+    "date": "2025-10-11",
+    "version": "1.136.5"
+  },
+  {
+    "children": {
       "fixes": ["Add 'gemini-2.5-flash-image' to disabled models Thinking."]
     },
     "date": "2025-10-10",
